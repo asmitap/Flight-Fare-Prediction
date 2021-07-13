@@ -1,0 +1,15 @@
+.navbar{
+	color:white;
+}
+.container{
+	text-align: center;
+}
+h3{
+	color:white;
+	background : #343a40;
+	border-radius:4px;
+}
+.btn-dark{
+	height:45px;
+	width : 200px;
+}
